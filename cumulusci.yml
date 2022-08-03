@@ -6,7 +6,9 @@ project:
         api_version: '54.0'
     git:
         default_branch: 'main'
+        repo_url: https://github.com/vpolisetty/metecho-demo
     source_format: sfdx
+
 
 tasks:
     robot:
